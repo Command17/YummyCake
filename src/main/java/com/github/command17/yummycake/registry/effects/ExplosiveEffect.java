@@ -1,11 +1,11 @@
 package com.github.command17.yummycake.registry.effects;
 
-import net.minecraft.entity.Entity;
 import net.minecraft.entity.LivingEntity;
 import net.minecraft.entity.attribute.AttributeContainer;
 import net.minecraft.entity.damage.DamageSource;
 import net.minecraft.entity.effect.StatusEffect;
 import net.minecraft.entity.effect.StatusEffectCategory;
+import net.minecraft.world.World;
 import net.minecraft.world.explosion.Explosion;
 
 public class ExplosiveEffect extends StatusEffect {
@@ -23,7 +23,7 @@ public class ExplosiveEffect extends StatusEffect {
         if (!entity.getWorld().isClient()) {
             amplifier++;
 
-            Explosion explosion = entity.getWorld().createExplosion(entity, entity.getX(), entity.getY(), entity.getZ(), 2.5f * amplifier, Explosion.DestructionType.BREAK);
+            Explosion explosion = entity.getWorld().createExplosion(entity, entity.getX(), entity.getY(), entity.getZ(), 2.5f * amplifier, World.ExplosionSourceType.MOB);
 
             entity.damage(DamageSource.explosion(explosion), 20 * amplifier);
         }
