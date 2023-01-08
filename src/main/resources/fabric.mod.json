@@ -1,0 +1,36 @@
+{
+  "schemaVersion": 1,
+  "id": "yummycake",
+  "version": "1.0.0",
+
+  "name": "Yummy Cake",
+  "description": "Adds more yummy cake!",
+  "authors": [
+    "COmmand17"
+  ],
+  "contact": {
+    "homepage": "",
+    "sources": ""
+  },
+
+  "license": "MIT",
+  "icon": "assets/yummycake/icon.png",
+
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "com.github.command17.yummycake.YummyCake"
+    ]
+  },
+  "mixins": [],
+
+  "depends": {
+    "fabricloader": ">=0.14.9",
+    "fabric-api": "*",
+    "minecraft": "~1.19",
+    "java": ">=17"
+  },
+  "suggests": {
+    "another-mod": "*"
+  }
+}

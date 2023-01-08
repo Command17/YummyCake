@@ -1,0 +1,20 @@
+{
+  "block.yummycake.choco_cake": "Chocokuchen",
+  "item.yummycake.choco_cake_slice": "Chocokuchen Scheibe",
+
+  "item.yummycake.cake_knife": "Kuchenmesser",
+
+  "block.yummycake.creeper_cake": "Creeperkuchen",
+  "item.yummycake.creeper_cake_slice": "Creeperkuchen Scheibe",
+
+  "block.yummycake.apple_cake": "Apfelkuchen",
+  "item.yummycake.apple_cake_slice": "Apfelkuchen Scheibe",
+
+  "block.yummycake.cloud_cake": "Wolkenkuchen",
+  "item.yummycake.cloud_cake_slice": "Wolkenkuchen Scheibe",
+
+  "block.yummycake.cookie_cake": "Kekskuchen",
+  "item.yummycake.cookie_cake_slice": "Kekskuchen Scheibe",
+
+  "effect.yummycake.explosive": "Explosive"
+}

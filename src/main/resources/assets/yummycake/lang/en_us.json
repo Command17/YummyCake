@@ -1,0 +1,20 @@
+{
+  "block.yummycake.choco_cake": "Choco Cake",
+  "item.yummycake.choco_cake_slice": "Choco Cake Slice",
+
+  "item.yummycake.cake_knife": "Cake Knife",
+
+  "block.yummycake.creeper_cake": "Creeper Cake",
+  "item.yummycake.creeper_cake_slice": "Creeper Cake Slice",
+
+  "block.yummycake.apple_cake": "Apple Cake",
+  "item.yummycake.apple_cake_slice": "Apple Cake Slice",
+
+  "block.yummycake.cloud_cake": "Cloud Cake",
+  "item.yummycake.cloud_cake_slice": "Cloud Cake Slice",
+
+  "block.yummycake.cookie_cake": "Cookie Cake",
+  "item.yummycake.cookie_cake_slice": "Cookie Cake Slice",
+
+  "effect.yummycake.explosive": "Explosive"
+}
