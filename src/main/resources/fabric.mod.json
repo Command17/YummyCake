@@ -6,11 +6,11 @@
   "name": "Yummy Cake",
   "description": "Adds more yummy cake!",
   "authors": [
-    "COmmand17"
+    "Command17"
   ],
   "contact": {
-    "homepage": "",
-    "sources": ""
+    "homepage": "https://github.com/Command17/YummyCake",
+    "sources": "https://github.com/Command17/YummyCake"
   },
 
   "license": "MIT",
