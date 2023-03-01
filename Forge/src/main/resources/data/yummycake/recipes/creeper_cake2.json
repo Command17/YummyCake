@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "yummycake:creeper_cake_slice"
+    }
+  },
+  "result": {
+    "item": "yummycake:creeper_cake",
+    "count": 1
+  }
+}

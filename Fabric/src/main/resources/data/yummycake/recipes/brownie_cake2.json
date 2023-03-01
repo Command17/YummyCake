@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "yummycake:brownie_cake_slice"
+    }
+  },
+  "result": {
+    "item": "yummycake:brownie_cake",
+    "count": 1
+  }
+}

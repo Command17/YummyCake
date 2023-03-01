@@ -1,0 +1,22 @@
+{
+    "textures": {
+        "particle": "yummycake:block/choco_cake_side",
+        "bottom": "yummycake:block/cake_bottom",
+        "top": "yummycake:block/choco_cake_top",
+        "side": "yummycake:block/choco_cake_side",
+        "inside": "yummycake:block/choco_cake_inner"
+    },
+    "elements": [
+        {   "from": [ 13, 0, 1 ],
+            "to": [ 15, 8, 15 ],
+            "faces": {
+                "down":  { "texture": "#bottom", "cullface": "down" },
+                "up":    { "texture": "#top" },
+                "north": { "texture": "#side" },
+                "south": { "texture": "#side" },
+                "west":  { "texture": "#inside" },
+                "east":  { "texture": "#side" }
+            }
+        }
+    ]
+}

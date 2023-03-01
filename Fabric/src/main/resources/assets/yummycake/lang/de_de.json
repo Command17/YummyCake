@@ -1,0 +1,28 @@
+{
+  "itemGroup.yummycake.tab": "Yummy Cake",
+
+  "block.yummycake.choco_cake": "Chokokuchen",
+  "item.yummycake.choco_cake_slice": "Chokokuchen Scheibe",
+
+  "item.yummycake.cake_knife": "Kuchenmesser",
+
+  "block.yummycake.creeper_cake": "Creeperkuchen",
+  "item.yummycake.creeper_cake_slice": "Creeperkuchen Scheibe",
+
+  "block.yummycake.apple_cake": "Apfelkuchen",
+  "item.yummycake.apple_cake_slice": "Apfelkuchen Scheibe",
+
+  "block.yummycake.cloud_cake": "Wolkenkuchen",
+  "item.yummycake.cloud_cake_slice": "Wolkenkuchen Scheibe",
+
+  "block.yummycake.cookie_cake": "Kekskuchen",
+  "item.yummycake.cookie_cake_slice": "Kekskuchen Scheibe",
+
+  "block.yummycake.sand_cake": "Sandkuchen",
+  "item.yummycake.sand_cake_slice": "Sandkuchen Scheibe",
+
+  "block.yummycake.brownie_cake": "Browniekuchen",
+  "item.yummycake.brownie_cake_slice": "Browniekuchen Scheibe",
+
+  "effect.yummycake.explosive": "Explosive"
+}
