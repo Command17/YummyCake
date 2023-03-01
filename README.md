@@ -5,7 +5,7 @@
 
 **(Depending on the Mod Loader)**
 
-This Mod adds 5 new cakes!
+This Mod adds 7 new cakes!
 
 Each cake has a sliced variant which you can get with the new ***cake knife***
 
