@@ -8,7 +8,7 @@ import net.minecraft.item.Item;
 import net.minecraft.util.math.BlockPos;
 import net.minecraft.world.World;
 
-public class BrownieCakeBlock extends SliceCakeBlock{
+public class BrownieCakeBlock extends SliceCakeBlock {
     public BrownieCakeBlock(Settings settings, Item slice) {
         super(settings, slice);
     }

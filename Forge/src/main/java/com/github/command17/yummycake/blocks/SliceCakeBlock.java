@@ -42,7 +42,7 @@ public class SliceCakeBlock extends CakeBlock {
             if (i < 6) {
                 level.setBlock(pos, state.setValue(BITES, Integer.valueOf(i + 1)), 3);
             } else {
-                level.destroyBlock(pos, true);
+                level.destroyBlock(pos, false);
                 level.gameEvent(player, GameEvent.BLOCK_DESTROY, pos);
             }
 

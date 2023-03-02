@@ -8,7 +8,7 @@ import net.minecraft.item.Item;
 import net.minecraft.util.math.BlockPos;
 import net.minecraft.world.World;
 
-public class CookieCakeBlock extends SliceCakeBlock{
+public class CookieCakeBlock extends SliceCakeBlock {
     public CookieCakeBlock(Settings settings, Item slice) {
         super(settings, slice);
     }

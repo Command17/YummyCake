@@ -8,7 +8,7 @@ import net.minecraft.item.Item;
 import net.minecraft.util.math.BlockPos;
 import net.minecraft.world.World;
 
-public class ChocoCakeBlock extends SliceCakeBlock{
+public class ChocoCakeBlock extends SliceCakeBlock {
     public ChocoCakeBlock(Settings settings, Item slice) {
         super(settings, slice);
     }

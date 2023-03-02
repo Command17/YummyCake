@@ -1,17 +1,14 @@
 {
   "schemaVersion": 1,
   "id": "yummycake",
-  "version": "2.0.0",
+  "version": "2.0.0-patch.1",
 
   "name": "Yummy Cake",
   "description": "Adds more yummy cake!",
   "authors": [
     "Command17"
   ],
-  "contact": {
-    "homepage": "https://github.com/Command17/YummyCake",
-    "sources": "https://github.com/Command17/YummyCake"
-  },
+  "contact": {},
 
   "license": "MIT",
   "icon": "assets/yummycake/icon.png",
@@ -22,6 +19,7 @@
       "com.github.command17.yummycake.YummyCake"
     ]
   },
+
   "mixins": [],
 
   "depends": {

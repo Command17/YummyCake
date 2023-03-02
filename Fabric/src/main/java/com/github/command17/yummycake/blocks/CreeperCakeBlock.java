@@ -10,7 +10,7 @@ import net.minecraft.world.World;
 
 import java.util.Random;
 
-public class CreeperCakeBlock extends SliceCakeBlock{
+public class CreeperCakeBlock extends SliceCakeBlock {
     Random rand = new Random();
 
     public CreeperCakeBlock(Settings settings, Item slice) {

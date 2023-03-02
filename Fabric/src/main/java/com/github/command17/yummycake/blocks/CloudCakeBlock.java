@@ -8,7 +8,7 @@ import net.minecraft.item.Item;
 import net.minecraft.util.math.BlockPos;
 import net.minecraft.world.World;
 
-public class CloudCakeBlock extends SliceCakeBlock{
+public class CloudCakeBlock extends SliceCakeBlock {
     public CloudCakeBlock(Settings settings, Item slice) {
         super(settings, slice);
     }
